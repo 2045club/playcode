@@ -3,7 +3,7 @@
 ![新会话](readme/screenshot1.png)
 ![新会话](readme/screenshot2.png)
 
-English version: [README.md](./README.md)
+English version: [README.md](./README.en.md)
 
 Playcode 一个集成了 Codex SDK 和 Claude AGENT SDK 的web终端，可以运行在windows , mac , linux 环境。不依赖本地的codex cli 和 claude code cli 。支持在 Windows、macOS、Linux 等常见 Node.js 运行环境中部署和使用
 
