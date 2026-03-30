@@ -1,7 +1,6 @@
 # Playcode （WEB CODEX & CLAUDE）
 
 ![new session](readme/screenshot1.png)
-![new session](readme/screenshot2.png)
 
 中文版本: [README.md](./README.md)
 

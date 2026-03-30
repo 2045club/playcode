@@ -1,7 +1,6 @@
 # Playcode （WEB CODEX & CLAUDE）
 
 ![新会话](readme/screenshot1.png)
-![新会话](readme/screenshot2.png)
 
 English version: [README.md](./README.en.md)
 
